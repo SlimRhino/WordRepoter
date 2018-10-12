@@ -1,0 +1,10 @@
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Debug\WordReporter.exe.config
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Debug\WordReporter.exe
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Debug\WordReporter.pdb
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.csprojResolveAssemblyReference.cache
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.Form1.resources
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.Properties.Resources.resources
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.csproj.GenerateResource.cache
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.csproj.CoreCompileInputs.cache
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.exe
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Debug\WordReporter.pdb

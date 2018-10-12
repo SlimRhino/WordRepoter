@@ -1,0 +1,9 @@
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Release\WordReporter.exe.config
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Release\WordReporter.exe
+C:\Users\orehov\source\repos\WordReporter\WordReporter\bin\Release\WordReporter.pdb
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.Form1.resources
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.Properties.Resources.resources
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.csproj.GenerateResource.cache
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.csproj.CoreCompileInputs.cache
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.exe
+C:\Users\orehov\source\repos\WordReporter\WordReporter\obj\Release\WordReporter.pdb
